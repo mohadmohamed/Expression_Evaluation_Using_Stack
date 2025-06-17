@@ -1,0 +1,3 @@
+# Project Description:
+This project demonstrates the conversion of postfix expressions to infix notation and evaluates the final result using MIPS assembly language. The program utilizes a stack-based approach to first accept a postfix expression from the user. It then converts this expression into its corresponding infix form using a stack for operand management. After the conversion, the infix expression is evaluated using another stack-based routine. Once the result is computed, it is displayed to the user. Finally, the program prompts the user to decide whether to perform another calculation or exit, enabling repeated use in a user-friendly loop.
+
