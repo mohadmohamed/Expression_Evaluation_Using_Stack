@@ -1,0 +1,15 @@
+# To run the program kindly open main file using mars simulator and build then run and the other files is included there.
+
+
+-> brief description for the project:
+
+This project focuses on processing and evaluating mathematical expressions by converting postfix notation to infix and computing the final result, all implemented in MIPS assembly language. The program begins by accepting a postfix expression as input from the user. Using a stack-based approach, it parses the expression and systematically converts it into its equivalent infix form, handling operands and operators appropriately to maintain the correct order of operations.
+
+Once the conversion is complete, the program then evaluates the resulting infix expression. This is achieved by implementing a second stack-based algorithm that handles operator precedence and parentheses to accurately compute the final value of the expression.
+
+After evaluating the expression, the program displays the result to the user in a clear format. To enhance usability, the program includes a loop that prompts the user to either perform another conversion and evaluation or exit the program. This makes the tool interactive and reusable without restarting.
+
+Overall, the project showcases a practical application of stack data structures, string parsing, and arithmetic evaluation within the low-level constraints of MIPS assembly, highlighting an effective combination of algorithmic logic and system-level programming.
+
+Thanks.
+		
